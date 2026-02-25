@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "MAKE IT, BREAK IT",
+  "base_artist": "FLOW GLOW",
+  "createdAt": "2026-02-25T07:10:06.061809Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Make It, Break It",
+      "artist": "ofrin",
+      "has_synced": true,
+      "path": "select/01_Make_It,_Break_It_ofrin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Make It, Break It",
+      "artist": "Ofrin",
+      "has_synced": false,
+      "path": "select/02_Make_It,_Break_It_Ofrin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MAKE IT BREAK IT",
+      "artist": "m-flo",
+      "has_synced": true,
+      "path": "select/03_MAKE_IT_BREAK_IT_m-flo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MAKE IT, BREAK IT",
+      "artist": "FLOW GLOW",
+      "has_synced": false,
+      "path": "select/pl_01_MAKE_IT,_BREAK_IT_FLOW_GLOW.txt"
+    }
+  ]
+}
